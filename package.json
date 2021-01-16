@@ -1,0 +1,24 @@
+{
+  "name": "clustro",
+  "version": "1.0.0",
+  "description": "Javascript implementation of several method data clustering in area of machine learning especially unsupervised learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saktinugraha/clustro-js.git"
+  },
+  "keywords": [
+    "machinelearning",
+    "unsupervised",
+    "clustering"
+  ],
+  "author": "Sakti Nugraha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saktinugraha/clustro-js/issues"
+  },
+  "homepage": "https://github.com/saktinugraha/clustro-js#readme"
+}
